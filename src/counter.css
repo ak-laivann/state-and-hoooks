@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    border: 1px solid gold;
+    margin: 20vh 40vw;
+    background-image: linear-gradient(315deg, red, orange, gold, yellow);
+    color: rebeccapurple;
+}
+
+div {
+    background-image: linear-gradient(135deg, red, orange, gold, yellow);
+}
