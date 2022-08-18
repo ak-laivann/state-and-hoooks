@@ -1,0 +1,42 @@
+
+div{
+    text-align: center;
+}
+
+input {
+    padding: 5px;
+    margin: 20px 20px;
+}
+
+.btn {
+    border: 2px solid gold;
+    background-image: linear-gradient(315deg, gold, yellow, orange);
+    box-shadow: 7px 7px 10px goldenrod;
+    color: black;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    border: 2px solid gold;
+    box-shadow: 10px 10px 10px gray;
+    color: maroon;
+    margin-bottom: 30px;
+}
+
+input:hover{box-shadow: 10px 10px 10px gold; background-image: linear-gradient(135deg, gold, yellow, orange); color: black;}
+
+ul {
+    list-style: none;
+    font-size: larger;
+    margin: 0 auto;
+}
+
+li {
+    border: 2px solid gold;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-image: linear-gradient(315deg, gold, yellow, orange);
+    box-shadow: 10px 10px 10px goldenrod;
+    width: auto;
+}

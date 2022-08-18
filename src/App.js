@@ -1,11 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-import Counter from './counterusingstate';
+import React from 'react';
+import Header from './components/Header';
+import InputBar from './components/InputBar';
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Header />
+      <InputBar />
     </div>
   );
 }
